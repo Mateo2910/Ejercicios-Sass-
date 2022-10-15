@@ -42,37 +42,40 @@ Información:
  
  
  
- #Ejercicio Sass con cambio de colores responsive
+ # Ejercicio Sass con cambio de colores responsive
  
 ![image](https://user-images.githubusercontent.com/110702886/195961603-f067a6ac-7494-4b5d-ac4e-9ced144bc249.png)
 
-#Ejercicio Sass con cambio de imagenes responsive
+# Ejercicio Sass con cambio de imagenes responsive
 
 ![image](https://user-images.githubusercontent.com/110702886/195961680-d90fd88a-77f8-4cf3-b770-e901ce2dd6d7.png)
 
-#Drag Drop 
+# Drag Drop 
 
 ![image](https://user-images.githubusercontent.com/110702886/195961741-a9b36763-7d82-46d9-8b28-db7b76641656.png)
 
-#Drag Drop personalizado
+# Drag Drop personalizado
 
 ![image](https://user-images.githubusercontent.com/110702886/195961777-68990884-d86f-4bb0-98a3-35be22f51c3a.png)
 
-#Navbar
+# Navbar
 
 ![image](https://user-images.githubusercontent.com/110702886/195961831-af4addfb-eebc-405a-93a9-b8b304e4c2d1.png)
 
-#Navbar personalizado
+# Navbar personalizado
 
-![image](https://user-images.githubusercontent.com/110702886/195961858-cc2ba238-3b24-4133-be9e-f1397d24aac4.png)
+![image](https://user-images.githubusercontent.com/110702886/195962202-c0e5f93f-bd41-4c3b-9b4c-ea5168e53ec2.png)
 
-#Card
 
-![image](https://user-images.githubusercontent.com/110702886/195961975-69dd244d-a1a9-4b91-b12c-cca0022dfafb.png)
+# Card
 
-#Card personalizada
+![image](https://user-images.githubusercontent.com/110702886/195962210-08df3ce2-764e-456c-a3ba-e42b376c6364.png)
 
-![image](https://user-images.githubusercontent.com/110702886/195961992-8a7dc4bf-4475-49f5-8adf-c5487ffbef8c.png)
+
+# Card personalizada
+
+![image](https://user-images.githubusercontent.com/110702886/195962216-16377d6f-7bd5-468e-a9a1-3274e2231e3f.png)
+
 
 
 
